@@ -83,7 +83,7 @@ API_HASH = getenv("API_HASH", None)
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 STRING_SESSION = getenv("STRING_SESSION", None)
 MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority")
-OWNER_ID = int(getenv("OWNER_ID", "5738579437"))
+OWNER_ID = int(getenv("OWNER_ID", "6229037146"))
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID","-1002087870550"))
 START_IMAGE_URL = getenv("START_IMAGE_URL","https://graph.org/file/d49ad47e5f6e8d1e90a5e.jpg")
 
